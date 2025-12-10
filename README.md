@@ -1,1 +1,1 @@
-# Vessel-Segmentation
+# CNN的語意切割辨識糖尿病視網膜病變病灶影像，進行嚴重度分析
