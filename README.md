@@ -55,8 +55,10 @@
 
 ### D. Kaggle成績
 1. Kaggle Public Score : 0.76163
-ˋ ------ Advanced Baseline -----0.80102ˋ
-ˋ ------ baseline ---------------0.59445ˋ
+   
+ˋ------ Advanced Baseline -----0.80102ˋ
+
+ˋ------ baseline ---------------0.59445ˋ
 
 
 
